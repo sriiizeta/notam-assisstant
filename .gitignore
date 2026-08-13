@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# trained model artifacts and eval outputs -- regenerate with the scripts in
+# README.md rather than committing binaries / run-to-run outputs
+*.joblib
+misclassified_*.csv
+ranker_eval_results.json
+distilbert_eval_results.json
+cross_validation_results.json

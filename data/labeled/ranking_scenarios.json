@@ -1,0 +1,366 @@
+[
+  {
+    "scenario_id": "S01",
+    "description": "JFK-BOS shuttle",
+    "route_airports": [
+      "KJFK",
+      "KBOS"
+    ],
+    "relevant_ids": [
+      "KJFK-6-4753",
+      "KJFK-03-405",
+      "KJFK-03-409",
+      "KJFK-11-346",
+      "KJFK-12-053",
+      "KJFK-12-171",
+      "KJFK-01-233",
+      "KJFK-02-434",
+      "KBOS-06-176",
+      "KBOS-04-303",
+      "KBOS-07-223"
+    ]
+  },
+  {
+    "scenario_id": "S02",
+    "description": "ATL-ORD trunk route",
+    "route_airports": [
+      "KATL",
+      "KORD"
+    ],
+    "relevant_ids": [
+      "KATL-03-151",
+      "KATL-03-152",
+      "KATL-03-278",
+      "KATL-03-296",
+      "KATL-05-379",
+      "KORD-12-117",
+      "KORD-12-334",
+      "KORD-12-335",
+      "KORD-12-336",
+      "KORD-12-337",
+      "KORD-12-339",
+      "KORD-01-863",
+      "KORD-01-864",
+      "KORD-01-865",
+      "KORD-01-866",
+      "KORD-01-867",
+      "KORD-03-095",
+      "KORD-02-845",
+      "KORD-02-846",
+      "KORD-05-542",
+      "KORD-05-543"
+    ]
+  },
+  {
+    "scenario_id": "S03",
+    "description": "ORD-BNA route",
+    "route_airports": [
+      "KORD",
+      "KBNA"
+    ],
+    "relevant_ids": [
+      "KORD-12-117",
+      "KORD-12-334",
+      "KORD-12-335",
+      "KORD-12-336",
+      "KORD-12-337",
+      "KORD-12-339",
+      "KORD-01-863",
+      "KORD-01-864",
+      "KORD-01-865",
+      "KORD-01-866",
+      "KORD-01-867",
+      "KORD-03-095",
+      "KORD-02-845",
+      "KORD-02-846",
+      "KORD-05-542",
+      "KORD-05-543",
+      "KBNA-04-028",
+      "KBNA-6-6482",
+      "KBNA-6-6483",
+      "KBNA-6-6486",
+      "KBNA-6-6487",
+      "KBNA-6-6489",
+      "KBNA-6-6490",
+      "KBNA-04-605",
+      "KBNA-01-071"
+    ]
+  },
+  {
+    "scenario_id": "S04",
+    "description": "BNA-ASE repositioning (Nashville to Aspen)",
+    "route_airports": [
+      "KBNA",
+      "KASE"
+    ],
+    "relevant_ids": [
+      "KBNA-04-028",
+      "KBNA-6-6482",
+      "KBNA-6-6483",
+      "KBNA-6-6486",
+      "KBNA-6-6487",
+      "KBNA-6-6489",
+      "KBNA-6-6490",
+      "KBNA-04-605",
+      "KBNA-01-071",
+      "KASE-04-059",
+      "KASE-06-009"
+    ]
+  },
+  {
+    "scenario_id": "S05",
+    "description": "JFK-ACK GA route (NYC to Nantucket)",
+    "route_airports": [
+      "KJFK",
+      "KACK"
+    ],
+    "relevant_ids": [
+      "KJFK-6-4753",
+      "KJFK-03-405",
+      "KJFK-03-409",
+      "KJFK-11-346",
+      "KJFK-12-053",
+      "KJFK-12-171",
+      "KJFK-01-233",
+      "KJFK-02-434",
+      "KACK-04-132",
+      "KACK-07-034"
+    ]
+  },
+  {
+    "scenario_id": "S06",
+    "description": "BOS-MVY commuter (Boston to Martha's Vineyard)",
+    "route_airports": [
+      "KBOS",
+      "KMVY"
+    ],
+    "relevant_ids": [
+      "KBOS-06-176",
+      "KBOS-04-303",
+      "KBOS-07-223",
+      "KMVY-07-020",
+      "KMVY-07-021",
+      "KMVY-07-023"
+    ]
+  },
+  {
+    "scenario_id": "S07",
+    "description": "ATL-BNA route",
+    "route_airports": [
+      "KATL",
+      "KBNA"
+    ],
+    "relevant_ids": [
+      "KATL-03-151",
+      "KATL-03-152",
+      "KATL-03-278",
+      "KATL-03-296",
+      "KATL-05-379",
+      "KBNA-04-028",
+      "KBNA-6-6482",
+      "KBNA-6-6483",
+      "KBNA-6-6486",
+      "KBNA-6-6487",
+      "KBNA-6-6489",
+      "KBNA-6-6490",
+      "KBNA-04-605",
+      "KBNA-01-071"
+    ]
+  },
+  {
+    "scenario_id": "S08",
+    "description": "ASE-EGE mountain hop (two Colorado ski airports)",
+    "route_airports": [
+      "KASE",
+      "KEGE"
+    ],
+    "relevant_ids": [
+      "KASE-04-059",
+      "KASE-06-009",
+      "KEGE-6-4541",
+      "KEGE-07-004"
+    ]
+  },
+  {
+    "scenario_id": "S09",
+    "description": "ORD-OSH route (Chicago to Oshkosh)",
+    "route_airports": [
+      "KORD",
+      "KOSH"
+    ],
+    "relevant_ids": [
+      "KORD-12-117",
+      "KORD-12-334",
+      "KORD-12-335",
+      "KORD-12-336",
+      "KORD-12-337",
+      "KORD-12-339",
+      "KORD-01-863",
+      "KORD-01-864",
+      "KORD-01-865",
+      "KORD-01-866",
+      "KORD-01-867",
+      "KORD-03-095",
+      "KORD-02-845",
+      "KORD-02-846",
+      "KORD-05-542",
+      "KORD-05-543",
+      "KOSH-06-040",
+      "KOSH-07-005",
+      "KOSH-07-010",
+      "KOSH-07-020",
+      "KOSH-07-021",
+      "KOSH-07-022",
+      "KOSH-07-023",
+      "KOSH-07-024",
+      "KOSH-07-025",
+      "KOSH-07-026",
+      "KOSH-06-022",
+      "KOSH-06-039",
+      "KOSH-07-002"
+    ]
+  },
+  {
+    "scenario_id": "S10",
+    "description": "JFK-ATL trunk route",
+    "route_airports": [
+      "KJFK",
+      "KATL"
+    ],
+    "relevant_ids": [
+      "KJFK-6-4753",
+      "KJFK-03-405",
+      "KJFK-03-409",
+      "KJFK-11-346",
+      "KJFK-12-053",
+      "KJFK-12-171",
+      "KJFK-01-233",
+      "KJFK-02-434",
+      "KATL-03-151",
+      "KATL-03-152",
+      "KATL-03-278",
+      "KATL-03-296",
+      "KATL-05-379"
+    ]
+  },
+  {
+    "scenario_id": "S11",
+    "description": "BOS-ACK GA route",
+    "route_airports": [
+      "KBOS",
+      "KACK"
+    ],
+    "relevant_ids": [
+      "KBOS-06-176",
+      "KBOS-04-303",
+      "KBOS-07-223",
+      "KACK-04-132",
+      "KACK-07-034"
+    ]
+  },
+  {
+    "scenario_id": "S12",
+    "description": "MVY-ACK island hop",
+    "route_airports": [
+      "KMVY",
+      "KACK"
+    ],
+    "relevant_ids": [
+      "KMVY-07-020",
+      "KMVY-07-021",
+      "KMVY-07-023",
+      "KACK-04-132",
+      "KACK-07-034"
+    ]
+  },
+  {
+    "scenario_id": "S13",
+    "description": "OSH local ops / arrival briefing",
+    "route_airports": [
+      "KOSH"
+    ],
+    "relevant_ids": [
+      "KOSH-06-040",
+      "KOSH-07-005",
+      "KOSH-07-010",
+      "KOSH-07-020",
+      "KOSH-07-021",
+      "KOSH-07-022",
+      "KOSH-07-023",
+      "KOSH-07-024",
+      "KOSH-07-025",
+      "KOSH-07-026",
+      "KOSH-06-022",
+      "KOSH-06-039",
+      "KOSH-07-002"
+    ]
+  },
+  {
+    "scenario_id": "S14",
+    "description": "ASE mountain approach briefing",
+    "route_airports": [
+      "KASE"
+    ],
+    "relevant_ids": [
+      "KASE-04-059",
+      "KASE-06-009"
+    ]
+  },
+  {
+    "scenario_id": "S15",
+    "description": "JFK local ops briefing",
+    "route_airports": [
+      "KJFK"
+    ],
+    "relevant_ids": [
+      "KJFK-6-4753",
+      "KJFK-03-405",
+      "KJFK-03-409",
+      "KJFK-11-346",
+      "KJFK-12-053",
+      "KJFK-12-171",
+      "KJFK-01-233",
+      "KJFK-02-434"
+    ]
+  },
+  {
+    "scenario_id": "S16",
+    "description": "BNA local ops briefing",
+    "route_airports": [
+      "KBNA"
+    ],
+    "relevant_ids": [
+      "KBNA-04-028",
+      "KBNA-6-6482",
+      "KBNA-6-6483",
+      "KBNA-6-6486",
+      "KBNA-6-6487",
+      "KBNA-6-6489",
+      "KBNA-6-6490",
+      "KBNA-04-605",
+      "KBNA-01-071"
+    ]
+  },
+  {
+    "scenario_id": "S17",
+    "description": "ACK local ops briefing",
+    "route_airports": [
+      "KACK"
+    ],
+    "relevant_ids": [
+      "KACK-04-132",
+      "KACK-07-034"
+    ]
+  },
+  {
+    "scenario_id": "S18",
+    "description": "EGE local ops briefing",
+    "route_airports": [
+      "KEGE"
+    ],
+    "relevant_ids": [
+      "KEGE-6-4541",
+      "KEGE-07-004"
+    ]
+  }
+]
